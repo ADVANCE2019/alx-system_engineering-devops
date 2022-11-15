@@ -1,1 +1,1 @@
-My first permission
+switches the current user
